@@ -1,0 +1,21 @@
+Find a problem on https://rosalind.info/problems/rna/
+
+start Anaconda navigator on mac
+
+lauch Jupyter notebook
+
+navigate to directory
+
+start a new jupyter notebook with python 3
+
+name it with date
+
+# What I learnt
+square brackets are for selecting one part of a string
+: is the delimiter of the slice syntax to 'slice out' sub-parts in sequences [start:end]
+slice: slice statement [::-1] means start at the end of the string and end at position 0, move with the step -1, negative one, which means one step backwards. 
+
+module: premade multifunction that can be imported by "import NAME", equivalent to R library
+
+dictionary: a collection which is ordered, changeable and do not allow duplicates. written with curly brackets, and have keys and values.
+
